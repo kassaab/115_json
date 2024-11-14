@@ -1,0 +1,14 @@
+{
+    "name": "Abraham",
+    "age": 24,
+    "city": "Seattle, WA",
+    "interests": [
+        "Traveling",
+        "Videogames",
+        "outdoors",
+        "Walking",
+        "Abraham1",
+        "Abraham2"
+    ],
+    "is_student": true
+}
